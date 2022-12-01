@@ -1,0 +1,9 @@
+D:\Dev\Godot\FPS\.mono\temp\obj\Debug\FPS.csproj.AssemblyReference.cache
+D:\Dev\Godot\FPS\.mono\temp\obj\Debug\FPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Godot\FPS\.mono\temp\obj\Debug\FPS.AssemblyInfoInputs.cache
+D:\Dev\Godot\FPS\.mono\temp\obj\Debug\FPS.AssemblyInfo.cs
+D:\Dev\Godot\FPS\.mono\temp\obj\Debug\FPS.csproj.CoreCompileInputs.cache
+D:\Dev\Godot\FPS\.mono\temp\bin\Debug\FPS.dll
+D:\Dev\Godot\FPS\.mono\temp\bin\Debug\FPS.pdb
+D:\Dev\Godot\FPS\.mono\temp\obj\Debug\FPS.dll
+D:\Dev\Godot\FPS\.mono\temp\obj\Debug\FPS.pdb
